@@ -67,7 +67,7 @@ EdTech-платформа. React + TypeScript (SPA/SSR): личные кабин
 > Все задеплоены — можно потыкать вживую 👇
 
 | Проект | Описание | Стек | Ссылки |
-|:------:|----------|:----:|:------:|
+|:------:|--------|:-----:|:-------:|
 | 🎵 **Sonora** | Музыкальный сервис: плеер с очередью, подборки по настроению и времени суток, поиск — на реальном Jamendo API | `React 19` `TS` `MobX` | [▶ Demo](https://artemegorov007.github.io/sonora/) · [Code](https://github.com/ArtemEgorov007/sonora) |
 | 📰 **Pulse** | Новостное приложение: лента из NewsAPI, тёмная тема, адаптив | `Vue 3` `Vuex` `Vite` | [▶ Demo](https://artemegorov007.github.io/pulse/) · [Code](https://github.com/ArtemEgorov007/pulse) |
 | 📊 **Dealio** | CRM с Kanban-доской сделок, клиентами и задачами (есть демо-режим) | `Nuxt 3` `Pinia` `Appwrite` | [▶ Demo](https://artemegorov007.github.io/dealio/) · [Code](https://github.com/ArtemEgorov007/dealio) |
