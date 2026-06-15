@@ -21,5 +21,5 @@ Frontend-разработчик, четвёртый год в вебе. Дела
 ### 📫 Связь
 
 - 📧 Email: [artemegorov.work@gmail.com](mailto:artemegorov.work@gmail.com)
-- 📱 Телефон: +7 932 257-87-70
+- ✈️ Telegram: [@vmarte15go](https://t.me/vmarte15go)
 - 🐙 GitHub: [@ArtemEgorov007](https://github.com/ArtemEgorov007)
