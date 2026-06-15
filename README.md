@@ -14,10 +14,12 @@ Frontend-разработчик, четвёртый год в вебе. Дела
 | Проект | О чём | Стек |
 |--------|-------|------|
 | **[Sonora](https://github.com/ArtemEgorov007/sonora)** | Музыкальный сервис: плеер с очередью, подборки по настроению и времени суток, поиск — на реальном Jamendo API | React 19, TypeScript, MobX |
-| **[News Feed](https://github.com/ArtemEgorov007/news_feed)** | Новостное приложение: лента из NewsAPI, тёмная тема, адаптив | Vue 3, Vuex, Vite |
-| **[CRM](https://github.com/ArtemEgorov007/Crm_nuxt)** | CRM с Kanban-доской сделок, клиентами и задачами | Nuxt 3, Pinia, Appwrite |
-| **[Photo Library](https://github.com/ArtemEgorov007/photo-library)** | Галерея фотоколлекций с фильтрами и пагинацией, архитектура Feature-Sliced Design | React, CRA |
+| **[Pulse](https://github.com/ArtemEgorov007/pulse)** | Новостное приложение: лента из NewsAPI, тёмная тема, адаптив | Vue 3, Vuex, Vite |
+| **[Dealio](https://github.com/ArtemEgorov007/dealio)** | CRM с Kanban-доской сделок, клиентами и задачами | Nuxt 3, Pinia, Appwrite |
+| **[Gallera](https://github.com/ArtemEgorov007/gallera)** | Галерея фотоколлекций с фильтрами и пагинацией, архитектура Feature-Sliced Design | React, CRA |
 
 ### 📫 Связь
 
-GitHub: [@ArtemEgorov007](https://github.com/ArtemEgorov007)
+- 📧 Email: [artemegorov.work@gmail.com](mailto:artemegorov.work@gmail.com)
+- 📱 Телефон: +7 932 257-87-70
+- 🐙 GitHub: [@ArtemEgorov007](https://github.com/ArtemEgorov007)
