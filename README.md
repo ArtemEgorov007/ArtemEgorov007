@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a96a,100:1a1a2e&height=200&section=header&text=Artem%20Egorov&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=58" width="100%" />
 
 <a href="https://github.com/ArtemEgorov007">
-  <img src="https://readme-typing-svg.demolab.com?font=Hanken%20Grotesk&weight=600&size=22&duration=3200&pause=900&color=C9A96A&center=true&vCenter=true&width=650&lines=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%3A%20React%2C%20Vue%2C%20TypeScript;Performance-%D0%B2%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%B8%20CPA-%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8;%D0%A7%D0%B5%D1%82%D0%B2%D1%91%D1%80%D1%82%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5" alt="Frontend-разработчик: React, Vue, TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3200&pause=900&color=C9A96A&center=true&vCenter=true&width=650&lines=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%3A%20React%2C%20Vue%2C%20TypeScript;Performance-%D0%B2%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%B8%20CPA-%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8;%D0%A7%D0%B5%D1%82%D0%B2%D1%91%D1%80%D1%82%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5" alt="Frontend-разработчик: React, Vue, TypeScript" />
 </a>
 
 <br/>
@@ -67,7 +67,7 @@ EdTech-платформа. React + TypeScript (SPA/SSR): личные кабин
 > Все задеплоены — можно потыкать вживую 👇
 
 | Проект | Описание | Стек | Ссылки |
-|:------:|--------|:-----:|:-------:|
+|:------:|----------|:----:|:------:|
 | 🎵 **Sonora** | Музыкальный сервис: плеер с очередью, подборки по настроению и времени суток, поиск — на реальном Jamendo API | `React 19` `TS` `MobX` | [▶ Demo](https://artemegorov007.github.io/sonora/) · [Code](https://github.com/ArtemEgorov007/sonora) |
 | 📰 **Pulse** | Новостное приложение: лента из NewsAPI, тёмная тема, адаптив | `Vue 3` `Vuex` `Vite` | [▶ Demo](https://artemegorov007.github.io/pulse/) · [Code](https://github.com/ArtemEgorov007/pulse) |
 | 📊 **Dealio** | CRM с Kanban-доской сделок, клиентами и задачами (есть демо-режим) | `Nuxt 3` `Pinia` `Appwrite` | [▶ Demo](https://artemegorov007.github.io/dealio/) · [Code](https://github.com/ArtemEgorov007/dealio) |
