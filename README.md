@@ -23,6 +23,7 @@ Frontend-разработчик, четвёртый год в коммерчес
 - ⚡ Сверстал **100+** адаптивных лендингов под живой рекламный трафик — pixel-perfect по Figma, кроссбраузерно, в срок
 - 🧩 Продуктовый опыт: **React + TypeScript** (SPA/SSR, EdTech), **Vue 2 → 3** (миграция, Composition API)
 - 🤖 Строю **AI-assisted workflow** (Claude Code, MCP, мультиагентные системы) и автоматизирую build-процессы на Python
+- 📈 Оптимизирую реальные бизнес-процессы заказчиков, а не просто пишу код по ТЗ — пример: [CRM выдачи бирок](https://artemegorov007.github.io/dealio/badges) для промышленного заказчика, встроенная в Dealio
 - 🎯 Самостоятельно веду задачи от макета до продакшена, дисциплина по срокам (бэкграунд инженера)
 
 ## 🛠 Стек
@@ -70,7 +71,7 @@ EdTech-платформа. React + TypeScript (SPA/SSR): личные кабин
 |:------:|----------|:----:|:------:|
 | 🎵 **Sonora** | Музыкальный сервис: плеер с очередью, подборки по настроению и времени суток, поиск — на реальном Jamendo API | `React 19` `TS` `MobX` | [▶ Demo](https://artemegorov007.github.io/sonora/) · [Code](https://github.com/ArtemEgorov007/sonora) |
 | 📰 **Pulse** | Новостное приложение: лента из NewsAPI, тёмная тема, адаптив | `Vue 3` `Vuex` `Vite` | [▶ Demo](https://artemegorov007.github.io/pulse/) · [Code](https://github.com/ArtemEgorov007/pulse) |
-| 🗂️ **Dealio** | Трекер идей, задач и wishlist на Kanban-доске (есть демо-режим) | `Nuxt 3` `Pinia` `Appwrite` | [▶ Demo](https://artemegorov007.github.io/dealio/) · [Code](https://github.com/ArtemEgorov007/dealio) |
+| 🗂️ **Dealio** | Kanban-трекер задач — и встроенная коммерческая CRM для промышленного заказчика: оптимизировал процесс выдачи бирок (был Telegram-бот + Google Таблица) в веб-CRM без логина, не трогая рабочий бот — поиск по 300+ позициям, защита от повторной выдачи, PWA | `Nuxt 3` `Pinia` `Apps Script` | [▶ CRM](https://artemegorov007.github.io/dealio/badges) · [Code](https://github.com/ArtemEgorov007/dealio) |
 | 📷 **Gallera** | Галерея фотоколлекций с фильтрами, поиском и lightbox — архитектура Feature-Sliced Design | `React` `FSD` | [▶ Demo](https://artemegorov007.github.io/gallera/) · [Code](https://github.com/ArtemEgorov007/gallera) |
 
 ## 📊 GitHub
