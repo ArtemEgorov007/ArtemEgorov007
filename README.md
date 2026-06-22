@@ -88,7 +88,7 @@ EdTech-платформа. React + TypeScript (SPA/SSR): личные кабин
 <div align="center">
 
 <a href="mailto:artemegorov.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://t.me/vmarte15go"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/artemegorov_dev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/ArtemEgorov007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
