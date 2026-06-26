@@ -24,6 +24,7 @@ Frontend-разработчик, четвёртый год в коммерчес
 - 🧩 Продуктовый опыт: **React + TypeScript** (SPA/SSR, EdTech), **Vue 2 → 3** (миграция, Composition API)
 - 🤖 Строю **AI-assisted workflow** (Claude Code, MCP, мультиагентные системы) и автоматизирую build-процессы на Python
 - 📈 Оптимизирую реальные бизнес-процессы заказчиков, а не просто пишу код по ТЗ — пример: [CRM выдачи бирок](https://artemegorov007.github.io/dealio/badges) для промышленного заказчика, встроенная в Dealio
+- 🌐 Портфолио-кейс по CPA-вёрстке: [Cade Stories](https://artemegorov007.github.io/cade-stories/) — как я вижу структуру лендинга под арбитраж (без привязки к рабочим офферам)
 - 🎯 Самостоятельно веду задачи от макета до продакшена, дисциплина по срокам (бэкграунд инженера)
 
 ## 🛠 Стек
@@ -69,6 +70,7 @@ EdTech-платформа. React + TypeScript (SPA/SSR): личные кабин
 
 | Проект | Описание | Стек | Ссылки |
 |:------:|----------|:----:|:------:|
+| 📚 **Cade Stories** | Демо CPA-лендинг: многостраничный white-page (гайд, глосарий, блог, legal), доверительный контент, mobile-first · PHP → static на GitHub Pages | `PHP` `CSS` `JS` | [▶ Demo](https://artemegorov007.github.io/cade-stories/) · [Code](https://github.com/ArtemEgorov007/cade-stories) |
 | 🎵 **Sonora** | Музыкальный сервис: плеер с очередью, подборки по настроению и времени суток, поиск — на реальном Jamendo API | `React 19` `TS` `MobX` | [▶ Demo](https://artemegorov007.github.io/sonora/) · [Code](https://github.com/ArtemEgorov007/sonora) |
 | 📰 **Pulse** | Новостное приложение: лента из NewsAPI, тёмная тема, адаптив | `Vue 3` `Vuex` `Vite` | [▶ Demo](https://artemegorov007.github.io/pulse/) · [Code](https://github.com/ArtemEgorov007/pulse) |
 | 🗂️ **Dealio** | Kanban-трекер задач — и встроенная коммерческая CRM для промышленного заказчика: оптимизировал процесс выдачи бирок (был Telegram-бот + Google Таблица) в веб-CRM без логина, не трогая рабочий бот — поиск по 300+ позициям, защита от повторной выдачи, PWA | `Nuxt 3` `Pinia` `Apps Script` | [▶ CRM](https://artemegorov007.github.io/dealio/badges) · [Code](https://github.com/ArtemEgorov007/dealio) |
