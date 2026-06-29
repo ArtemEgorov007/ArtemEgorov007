@@ -80,8 +80,8 @@ EdTech-платформа. React + TypeScript (SPA/SSR): личные кабин
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArtemEgorov007&show_icons=true&hide_border=true&theme=tokyonight&icon_color=c9a96a&title_color=c9a96a" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemEgorov007&layout=compact&hide_border=true&theme=tokyonight&title_color=c9a96a&langs_count=8" />
+<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="170" src="./profile/top-langs.svg" alt="Most used languages" />
 
 </div>
 
