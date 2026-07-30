@@ -18,7 +18,7 @@
 
 ## Обо мне
 
-Frontend-разработчик, **3+ года** в коммерческой разработке. Два рабочих трека (как на hh):
+Frontend-разработчик, **3+ года** в коммерческой разработке. Два рабочих трека:
 
 | Трек | Фокус |
 |------|--------|
@@ -54,8 +54,8 @@ Frontend-разработчик, **3+ года** в коммерческой р�
 
 ## Опыт
 
-**KINTECH GROUP** — Frontend · `фев 2026 — н.в.`  
-Performance-лендинги (CPA). Keitaro (потоки, postback/S2S), DynamicOffer / A/B; Python-пайплайн scrape → validate → zip (цикл ×3–4); AI-assisted сборка и QA.  
+**Frontend · Performance / CPA** *(NDA)* · `фев 2026 — н.в.`  
+Performance-лендинги под paid traffic. Keitaro (потоки, postback/S2S), DynamicOffer / A/B; Python-пайплайн scrape → validate → zip; AI-assisted сборка и QA.  
 `HTML` · `SCSS` · `JS` · `Python` · `Keitaro`
 
 **TutorPlace** — Frontend (React) · `дек 2023 — фев 2026`  
